@@ -1,0 +1,9 @@
+# Private Windows event data
+logs/windows_events.csv
+
+# Generated reports may contain private information
+reports/security_report.txt
+
+# Python cache
+__pycache__/
+*.pyc
